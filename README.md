@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Jessy Swan and I'm an Android developer. I'm from Bangalore and currently working at TCS. 
+I'm an Android developer. I'm from Bangalore and currently working in TCS. 
 
 You can find me on https://www.linkedin.com/in/jessy-swan-722b90b8/
 
